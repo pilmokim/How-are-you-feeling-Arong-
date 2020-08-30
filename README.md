@@ -11,3 +11,8 @@
 그래서 강아지의 몇가지 비언어적 sign을 통해 지금 이 강아지는 어떤 기분일것이다라고 알려주는 어플을 만들기로했다.
 아롱은 우리 이쁜내새키 이름이다. ㅎㅎ
 
+## Function
+https://moderndogmagazine.com/articles/how-read-your-dogs-body-language/415
+강아지의 신체 부위변화를 카메라로 인식하여 감정파악
+우선 그럴러면 귀는 귀로인식 눈은 눈으로 인식할 수 있는 기술이 필요할것
+
